@@ -13,4 +13,5 @@ public class User {
     private String phone;
     // 分组号
     private Long repId;
+    private Short deptId;
 }
