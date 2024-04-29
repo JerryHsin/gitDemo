@@ -14,5 +14,4 @@ public class User {
     // 分组号
     private Long repId;
     private Short deptId;
-    private String nikeName;
 }
